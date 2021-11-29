@@ -2,3 +2,5 @@
 2. Limited Organizations: not-authenticated requests are not able to see all the organizations.
 3. Browser compatibility: This code has just been tested with Chrome, so I cannot guarantee that it will work with other browsers, such as IE11.
 4. Search: Organization and Repository searchs both use the 'like' search(search for items containing the search keyword) 
+5. I used javascript rather than typescript as it let me to deliver faster 
+6. Refreshing Page caused losing the search information
